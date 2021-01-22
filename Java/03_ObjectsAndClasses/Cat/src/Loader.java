@@ -9,7 +9,7 @@ public class Loader
         Cat cat2 = new Cat();
         Cat cat3 = new Cat();
         Cat cat4 = new Cat();
-
+        //Hello
         //System.out.println("Первая кошка: " + cat.getWeight());
        // System.out.println("Вторая кошка: " + cat1.getWeight());
         //System.out.println("Третья кошка: " + cat2.getWeight());
